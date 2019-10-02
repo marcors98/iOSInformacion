@@ -2,15 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../EditarContactoController.swift">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/ulsa/Desktop/Informacion/Informacion/CeldaContactoController.swift">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/ulsa/Desktop/Informacion/Informacion/Main.storyboard">
-   </FileRef>
-   <FileRef
       location = "self:Informacion.xcodeproj">
    </FileRef>
 </Workspace>
